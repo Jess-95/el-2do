@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+
+h3{
+    color: blue;
+    margin: 15px;
+}
+
+.clas1{
+    color: #000;
+}
+
+#h4-m{
+    color: blueviolet;
+}
